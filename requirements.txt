@@ -1,9 +1,11 @@
-langchain
-langchain-community
-langchain-google-genai
-chromadb
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-google-genai==1.0.7
+langchain-chroma==0.1.2
+langchain-core==0.2.43
+langchain-text-splitters==0.2.4
+chromadb==0.5.23
 streamlit
 pypdf
 python-dotenv
 tiktoken
-langchain-chroma
