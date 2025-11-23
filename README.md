@@ -1,6 +1,6 @@
 # Vedic Spiritual Master Chatbot
 
-A RAG-based chatbot that provides spiritual guidance using the wisdom of the Vedas, Upanishads, Bhagavad Gita, and Yoga Vashishta.
+A RAG-based chatbot that provides spiritual guidance using the wisdom of the Vedas, Upanishads, Bhagavad Gita and Yoga Vashishta.
 
 ## Setup
 
@@ -12,7 +12,6 @@ A RAG-based chatbot that provides spiritual guidance using the wisdom of the Ved
     ```
 
 2.  **Set up API Key**:
-    -   Rename `.env.example` to `.env`.
     -   Add your Google Gemini API key: `GOOGLE_API_KEY=your_key_here`.
 
 3.  **Ingest Data**:
@@ -28,6 +27,5 @@ A RAG-based chatbot that provides spiritual guidance using the wisdom of the Ved
 
 ## Data Sources
 -   Bhagavad Gita
--   Yoga Vashishta (Summary)
--   Kaivalya Upanishad (Summary)
--   Vivekachudamani (Summary)
+-   Advaita Vedanta
+-   Kaivalya Upanishad
