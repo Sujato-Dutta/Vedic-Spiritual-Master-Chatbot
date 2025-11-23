@@ -1,6 +1,7 @@
 # Vedic Spiritual Master Chatbot
 
 A RAG-based chatbot that provides spiritual guidance using the wisdom of the Vedas, Upanishads, Bhagavad Gita and Yoga Vashishta.
+Chatbot Link: https://k8xjj6hegddbhysmilqnfz.streamlit.app/
 
 ## Setup
 
